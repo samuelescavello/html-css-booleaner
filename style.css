@@ -20,6 +20,9 @@
 .list{
    padding: 20px;
 }
+th{
+    width: 15%;
+}
 thead{
     background-color:rgb(0, 132, 255);
 }
