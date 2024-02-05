@@ -1,0 +1,44 @@
+/* *{
+    box-sizing: content-box;
+} */
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.titolo{
+    font-size: 60px;
+}
+.header{
+    background-color: rgb(0, 132, 255);
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+
+}
+.logo{
+    height:100px;
+    padding-top: 100px;
+}
+.list{
+   padding: 20px;
+}
+.footer{
+    background-image: url(img/monitor.jpg);
+}
+.grigio{
+    color: gray;
+}
+.azzurro{
+    color:rgb(0, 132, 255) ;
+}
+.firstpg{
+    background-image: url(img/monitor.jpg);
+    width: 230px;
+    height: 200px;
+}
+.secondpg{
+    background-image: url(img/graph.jpg);
+    width: 230px;
+    height: 200px;
+}
+.bianco{
+    color: white;
+}
