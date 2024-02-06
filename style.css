@@ -3,6 +3,15 @@
 } */
 .body{
     font-family: 'Roboto', sans-serif;
+    
+}
+main{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+aside{
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .titolo{
     font-size: 60px;
@@ -16,6 +25,7 @@
 .logo{
     height:100px;
     padding-top: 100px;
+    padding-left: 200px;
 }
 .list{
    padding: 20px;
